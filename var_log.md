@@ -16,37 +16,40 @@ nslookup -type=ns issinfo.net
 nslookup -type=mx aquariumofpacific.org
 nslookup -type=ns aquariumofpacific.org
 
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif" />](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
 
 Sand islands in river 
 
 
-East
+## East
 
 ![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/20261822146_GOES19-ABI-CONUS-DMW-1250x750.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/20261822146_GOES19-ABI-CONUS-DMW-1250x750.jpg)
 
 [Animated - https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/GOES19-ABI-CONUS-DMW.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/GOES19-ABI-CONUS-DMW.gif])
 
 Lightning 
-https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/latest.jpg
-https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.mp4
-https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.gif
-https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.gif
-https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/latest.jpg
-https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/20261822216_GOES19-GLM-CONUS-EXTENT3-1250x750.jpg
+![https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/latest.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/latest.jpg)
+[<video controls width="100%" height="auto" src="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.mp4" />](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.mp4)
 
-https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/10/latest.jpg
+![https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/latest.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.gif)
+![https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/latest.jpg)
+![https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/latest.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/latest.jpg)
+![https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/20261822216_GOES19-GLM-CONUS-EXTENT3-1250x750.jpg](cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/20261822216_GOES19-GLM-CONUS-EXTENT3-1250x750.jpg)
 
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/10/latest.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/10/latest.jpg)
+
+[ZiP - cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/latest.jpg.zip](cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/latest.jpg.zip)
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/625x375.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/625x375.jpg)
 https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/latest.jpg.zip
-https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/625x375.jpg
-https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/latest.jpg.zip
-https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/Dust/5424x5424.jpg
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/Dust/5424x5424.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/Dust/5424x5424.jpg
+)
 
 
 
 
 West
 https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/02/latest.jpg
- https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/02/GOES18-WUS-02-1000x1000.gif
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/02/GOES18-WUS-02-1000x1000.gif
 https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/latest.jpg
 https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/20261822251_GOES18-ABI-CONUS-GEOCOLOR-10000x6000.jpg
 https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/20261822251_GOES18-ABI-CONUS-GEOCOLOR-10000x6000.jpg
@@ -938,7 +941,9 @@ $$E=mc^2$$
 ```markdown
 [<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
 ```
+
 [<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+
 <video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
 
   <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
@@ -948,9 +953,11 @@ $$E=mc^2$$
   or
   <a href="">MP4</a>
   video.
+  
 </video>
 
 {% highlight html %}
+
 <video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
 
   <source src="https://archive.org/download/short.circuit.1986.2160p/Short.Circuit.1986.2160p.BluRay.Topaz.AMQ.Upscale.x265-SoF.mp4" type="video/mp4" />
